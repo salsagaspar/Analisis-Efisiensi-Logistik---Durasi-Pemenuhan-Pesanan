@@ -1,0 +1,20 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\hpvic\\anaconda3\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\hpvic\\anaconda3\\Lib\\site-packages"
+  ],
+  "python.autoComplete.extraPaths": [
+    "C:\\Users\\hpvic\\anaconda3\\Lib\\site-packages"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportUndefinedVariable": "none",
+    "reportMissingTypeStubs": "none"
+  },
+  "jupyter.kernels.filter": [
+    {
+      "path": "C:\\Users\\hpvic\\anaconda3\\python.exe",
+      "type": "pythonEnvironment"
+    }
+  ]
+}

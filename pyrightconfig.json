@@ -1,0 +1,11 @@
+{
+  "pythonPlatform": "Windows",
+  "pythonVersion": "3.13",
+  "pythonPath": "C:\\Users\\hpvic\\anaconda3\\python.exe",
+  "extraPaths": [
+    "C:\\Users\\hpvic\\anaconda3\\Lib\\site-packages"
+  ],
+  "reportMissingImports": "none",
+  "reportUndefinedVariable": "none",
+  "reportMissingTypeStubs": "none"
+}
